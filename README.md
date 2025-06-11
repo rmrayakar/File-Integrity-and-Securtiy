@@ -158,15 +158,3 @@ python file_integrity_monitor.py
 
 ---
 
-## 📄 License
-MIT License  
-© 2025 Ankit Patil
-
----
-
-## ✉️ Contact
-For support or inquiries:
-
-📧 Email: your_email@gmail.com  
-📘 LinkedIn: linkedin.com/in/yourprofile  
-🐙 GitHub: github.com/yourusername
