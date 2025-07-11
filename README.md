@@ -13,10 +13,6 @@ A secure, real-time file monitoring system that detects file modifications, addi
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Security Details](#security-details)
-- [Screenshots](#screenshots)
-- [To-Do / Enhancements](#to-do--enhancements)
-- [License](#license)
-
 ---
 
 ## ✅ Features
@@ -144,17 +140,4 @@ python file_integrity_monitor.py
 
 ---
 
-## 🖼️ Screenshots
-📸 (Insert screenshots of GUI main window, alerts, PDF report, versioned files, etc.)
-
----
-
-## 📌 To-Do / Enhancements
-- [ ] Add logging system for audit trail
-- [ ] Support SFTP or remote monitoring
-- [ ] Add hash verification for report authenticity
-- [ ] Integrate tray icon for background monitoring
-- [ ] Dark/light theme toggle
-
----
 
