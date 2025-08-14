@@ -301,9 +301,9 @@ def send_email_alert(subject, body):
     """Send an email alert using SMTP. Fill in the placeholders below."""
     smtp_server = 'smtp.gmail.com'
     smtp_port = 587
-    sender_email = 'ankit.p.patil06@gmail.com'
-    sender_password = 'nmvhckzfsbcssobd'
-    receiver_email = 'ankitpatil.cs22@rvce.edu.in'
+    sender_email = 'Add Your Email'
+    sender_password = 'Your Password Hashed Value'
+    receiver_email = 'Add Reciever Email'
 
     msg = MIMEMultipart()
     msg['From'] = sender_email
